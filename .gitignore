@@ -1,11 +1,7 @@
 # https://dart.dev/guides/libraries/private-files
 # Created by `dart pub`
-# Ignore files that shouldn’t be pushed to GitHub.
-
-```gitignore
-/.dart_tool/
-/packages
+.dart_tool/
 /log/
 /web/
+/certs/
 .pubspec.lock
-
